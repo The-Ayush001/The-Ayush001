@@ -21,3 +21,15 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats 
 
 ![Ayush Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Ayush001&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+## 🔥 Most Used Languages
+
+![Ayush Kumar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Ayush001&layout=compact&theme=radical)
+
+## 🚀 GitHub Streak
+
+![Ayush Kumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-Ayush001&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![Ayush Kumar's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=The-Ayush001&theme=radical)
