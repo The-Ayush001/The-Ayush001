@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Chart of My GitHub Activity
+
+![Ayush's GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=The-Ayush001&theme=react-dark)
