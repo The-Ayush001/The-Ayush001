@@ -33,3 +33,10 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 
 ![Ayush Kumar's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=The-Ayush001&theme=radical)
+
+## 📈 Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=The-Ayush001&label=Profile+Views&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/The-Ayush001?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/The-Ayush001?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/The-Ayush001/The-Ayush001?style=social)
