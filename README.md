@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 ## Chart of My GitHub Activity
 
-![Ayush's GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=The-Ayush001&theme=react-dark)
+![Ayush Kumar's GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=The-Ayush001&theme=react-dark)
+
+## 📊 GitHub Stats 
+
+![Ayush Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Ayush001&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
