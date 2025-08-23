@@ -193,3 +193,9 @@ I'm eager to explore collaboration opportunities on projects that leverage cutti
 [![Portfolio](https://img.shields.io/badge/Portfolio-VikashKumar-blueviolet?style=for-the-badge&logo=web)](https://vikashkrdeveloper.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-vikashkrdeveloper-black?style=for-the-badge&logo=github)](https://github.com/vikashkrdeveloper)
 [![Email](https://img.shields.io/badge/Email-VikashKumar-red?style=for-the-badge&logo=gmail)](mailto:vik.fstkdvpro@gmail.com) -->
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=The-Ayush001&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=The-Ayush001&icon=0&color=0)](https://visitcount.itsvg.in)
