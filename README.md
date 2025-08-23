@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=The-Ayush001&theme=radical&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=The-Ayush001&theme=radical&margin-w=10&margin-h=10&no-frame=true)]
 
 
 ## 📈 Profile Stats
