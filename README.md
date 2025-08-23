@@ -30,11 +30,9 @@ Here are some ideas to get you started:
 
 ![Ayush Kumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-Ayush001&theme=radical)
 
-You said:
 ## 🏆 GitHub Trophies
 
 ![Ayush Kumar's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=The-Ayush001&theme=radical)
-
 
 ## 📈 Profile Stats
 
