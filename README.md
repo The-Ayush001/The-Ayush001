@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 
-![Ayush Kumar's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=The-Ayush001&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=The-Ayush001&theme=radical&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 📈 Profile Stats
 
