@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 ## 🚀 GitHub Streak
 
-![Ayush Kumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-Ayush001&theme=radical)
+![Vikash Kumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikashkrdeveloper&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![Ayush Kumar's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=The-Ayush001&theme=radical)
+![Vikash Kumar's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vikashkrdeveloper&theme=radical)
 
 ## 📈 Profile Stats
 
