@@ -1,6 +1,5 @@
 ## Hi 👋 I'm Ayush - Software Developer ##
 
-<!--
 **The-Ayush001/The-Ayush001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## Chart of My GitHub Activity
 
 ![Ayush Kumar's GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=The-Ayush001&theme=react-dark)
@@ -28,11 +27,11 @@ Here are some ideas to get you started:
 
 ## 🚀 GitHub Streak
 
-![Vikash Kumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vikashkrdeveloper&theme=radical)
+![Vikash Kumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-Ayush001&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![Vikash Kumar's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vikashkrdeveloper&theme=radical)
+![Vikash Kumar's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=The-Ayush001&theme=radical)
 
 ## 📈 Profile Stats
 
